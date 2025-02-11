@@ -20,42 +20,34 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Notre solution</a>
+                        <a class="nav-link" href="/solution.php">Notre solution</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="/temoignages.php">Témoignages</a>
                     </li>
 
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="temoignagesDropdown" role="button" data-bs-toggle="dropdown">
-                            Témoignages
-                        </a>
-                        <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="https://youtu.be/amwpZ3ywUWM">Télésurveillance Insuffisance Cardiaque</a></li>
-                            <li><a class="dropdown-item" href="https://youtu.be/Cw4isMJrgao">Télésurveillance Diabète</a></li>
-                            <li><a class="dropdown-item" href="https://youtu.be/1WkjxcVXmbQ">Télésurveillance Post-COVID</a></li>
-                        </ul>
-                    </li>
-
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="offresDropdown" role="button" data-bs-toggle="dropdown">
+                        <a class="nav-link" href="/nos_offres.php">
                             Nos Offres
                         </a>
-                        <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="#">Hôpitaux & Cliniques</a></li>
-                            <li><a class="dropdown-item" href="#">Centres de Ressources</a></li>
-                            <li><a class="dropdown-item" href="#">Médecins de Ville</a></li>
-                            <li><a class="dropdown-item" href="#">Particuliers</a></li>
-                        </ul>
+
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Certification</a>
+                        <a class="nav-link" href="/certifications.php">Certification</a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Nos Partenaires</a>
+                        <a class="nav-link" href="/partenaires.php">Nos Partenaires</a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Contactez-nous</a>
+                        <a class="nav-link" href="/contact.php">Contactez-nous</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="btn btn-primary text-white me-2" href="/telesuivi.php">Demande de Telesuivi</a>
                     </li>
 
                     <li class="nav-item">
